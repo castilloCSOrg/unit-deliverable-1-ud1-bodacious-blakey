@@ -65,20 +65,20 @@ public class Main {
 
     Main.printASCII();
 
-    System.out.print(STAR + "Enter the first operand: ");      // prompt user for first operand
+    System.out.print(STAR + "Enter the first operand: ");   // prompt user for first operand
     operand1 = Main.getOperand();                          // collect first operand
 
-    System.out.print(STAR + "Enter the operator: ");          // prompt user for operator
+    System.out.print(STAR + "Enter the operator: ");       // prompt user for operator
     operator = Main.getOperator();                         // collect operator                                 
 
-    System.out.print(STAR + "Enter the second operand: ");    // prompt user for second operand
+    System.out.print(STAR + "Enter the second operand: "); // prompt user for second operand
     operand2 = Main.getOperand();
     System.out.println();
 
     inputScanner.close();                                  // close input stream
 
     result = Main.calculate(operand1, operator, operand2); // calculate result
-    System.out.println(STAR + "Result: " + result);             // print result
+    System.out.println(STAR + "Result: " + result);        // print result
   }
 
   // Gets number from user
