@@ -8,17 +8,16 @@
     ".test/junit-platform-console-standalone-1.11.0-M2.jar"
   ],
   "files.exclude": {
-    "**/.git": true,
-    "**/.svn": true,
-    "**/.hg": true,
-    "**/CVS": true,
     "**/.DS_Store": true,
-    "**/Thumbs.db": true,
-    "**/.devcontainer": true,
+    "**/.git": true,
+    "**/.github": true,
+    "**/.gitignore": true,
+    "**/.hg": true,
+    "**/.svn": true,
     "**/.test": true,
     "**/.vscode": true,
-    "**/.github": true,
-    "**/.gitignore": true
+    "**/CVS": true,
+    "**/Thumbs.db": true
   },
   "extensions.ignoreRecommendations": true,
   "java.format.settings.url": ".vscode/eclipse-java-google-style.xml",
