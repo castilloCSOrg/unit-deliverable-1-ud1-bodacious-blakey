@@ -12,6 +12,12 @@
 *
 * This program was made without using iterable data structures because I wanted to stick to the 
 * basic data types that have been discussed in class thus far.
+*
+* PURPOSE PARAGRAPH:
+* I chose to write a calculator app for my program because I see this kind of project as the
+* perfect beginner program for any new technology; I considered it a good way to get my feet
+* wet with Java. I feel a lot more confident with Java now then I did before I started
+* work on this project.
 *********************************************
 *	ALGORITHM:
 *	Print art
